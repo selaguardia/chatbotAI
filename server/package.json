@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "server": "nodemon server"
+    "server": "server"
   },
   "keywords": [],
   "author": "Sergio Laguardia",
