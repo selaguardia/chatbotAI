@@ -6,7 +6,7 @@
   <h1 align="center">Chatbot AI</h1>
 
   <p align="center">
-    A fun chatbot using OpenAI's ChatGPT artificial intellenge to make your life easier. Try asking any question! </br>
+    A fun chatbot using OpenAI's ChatGPT artificial intelligence to make your life easier. Try asking any question! </br>
     <a href="https://chatbot-ai-umber.vercel.app" target="_blank">View Demo</a>
   </p>
 </div>
@@ -84,7 +84,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Sergio Laguardia</br></br> 
+Sergio Laguardia
 Email me @ sergioslaguardia@gmail.com </br></br>
 Want to see more projects? [Visit Portfolio Website](https://www.sergiolaguardia.com/)</br></br>
 [![LinkedIn][linkedin-shield]][linkedin-url]</br></br>
