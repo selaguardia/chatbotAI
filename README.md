@@ -1,58 +1,15 @@
 <a name="readme-top"></a>
-
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/selaguardia/chatbotAI">
-    <img src="client/assets/bot.svg" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">Chatbot AI</h3>
+  <h3 align="center">Chatbot AI</h3>
 
   <p align="center">
-    A fun chatbot using artificial intellenge to make your life easier.
-    <br />
-    <a href="https://github.com/selaguardia/chatbotAI"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    A fun chatbot using OpenAI's ChatGPT artificial intellenge to make your life easier. Try asking any question! </br>
     <a href="https://chatbot-ai-umber.vercel.app">View Demo</a>
-    ·
-    <a href="https://github.com/selaguardia/chatbotAI/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/selaguardia/chatbotAI/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -65,11 +22,17 @@
 
 
 
-### Built With
-
-* Vite JS
-* Node JS
-* Express JS
+### Built With...
+##### Frontend:
+  * Vite JS 
+##### Backend:
+  * Node JS
+  * Express JS
+##### Dependencies:
+ * CORS
+ * dotenv
+ * nodemon
+ * openAI ChatGPT API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,75 +41,56 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+#### Prerequisites
 
-### Prerequisites
+* Node
+* openAI API Key
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+#### Installation
+
+1. Get a free API Key at [https://openai.com/api/](https://openai.com/api/)
 2. Clone the repo
    ```sh
    git clone https://github.com/selaguardia/chatbotAI.git
    ```
+##### Server Side:
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Create a `.env` file and enter your API key
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   OPENAI_API_KEY = 'ENTER YOUR API';
    ```
-
+5. Run backend server
+    ```sh
+      npm start server
+    ```
+##### Client Side: 
+6. Install NPM packages
+   ```sh
+   npm install
+   ```
+7. Run Vite frontent 
+    ```sh
+      npm run dev
+    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/selaguardia/chatbotAI/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Sergio Laguardia - [Portfolio Website](https://www.sergiolaguardia.com/) - sergioslaguardia@gmail.com
+Sergio Laguardia</br></br> 
+Email me @ sergioslaguardia@gmail.com </br></br>
+Want to see more projects? [Visit Portfolio Website](https://www.sergiolaguardia.com/)</br></br>
+[![LinkedIn][linkedin-shield]][linkedin-url]</br></br>
 
-Project Link: [https://github.com/selaguardia/chatbotAI](https://github.com/selaguardia/chatbotAI)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+</br>
 
 
 
