@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Chatbot AI</h3>
+  <h1 align="center">Chatbot AI</h1>
 
   <p align="center">
     A fun chatbot using OpenAI's ChatGPT artificial intellenge to make your life easier. Try asking any question! </br>
