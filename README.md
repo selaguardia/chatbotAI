@@ -7,7 +7,7 @@
 
   <p align="center">
     A fun chatbot using OpenAI's ChatGPT artificial intellenge to make your life easier. Try asking any question! </br>
-    <a href="https://chatbot-ai-umber.vercel.app">View Demo</a>
+    <a href="https://chatbot-ai-umber.vercel.app target="_blank">View Demo</a>
   </p>
 </div>
 
